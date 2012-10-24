@@ -1,1 +1,1 @@
-Prima pagina del Museo Rinascimentale :-)
+Prima pagina del Museo Rinascimentale :)
