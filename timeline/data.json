@@ -1,0 +1,108 @@
+
+{
+    "timeline":
+    {
+        "headline":"Cronologia",
+        "type":"default",
+		"startDate":"1844,3",
+		"text":"<i><span class='c1'>del Risorgimento</span> a <span class='c2'>Venezia</span></i>",
+		"asset":
+        {
+            "media":"assets/img/orologio.jpg",
+            "credit":"",
+            "caption":""
+        },
+        "date": [
+            {
+                "startDate":"1844,3",
+                "headline":"La Fenice di Venezia",
+                "text":"Si tiene la prima rappresentazione dell'Ernani di Verdi alla Fenice",
+                "asset":
+                {
+                    "media":"assets/img/fenice.jpg",
+                    "credit":"<a href=''>Link</a>",
+                    "caption":"Nome"
+                }
+            },
+            {
+                "startDate":"1846,1",
+                "headline":"Ponte Ferroviario",
+                "text":"E' inaugurato il ponte ferroviario che unisce la città lagunare alla Terraferma",
+                "asset":
+                {
+                    "media":"assets/img/pontelibertavenezia.jpg",
+                    "credit":"<a href=''>Link</a>",
+                    "caption":"Nome"
+                }
+            },
+            {
+               "startDate":"1847,9",
+                "headline":"Le Manifestazioni Patriottiche",
+                "text":"Si svolgono manifestazioni patriottiche al Congresso degli scienziati di Venezia",
+                "asset":
+                {
+                    "media":"assets/img/18479.jpg",
+                    "credit":"<a href=''>Link</a>",
+                    "caption":"Nome"
+                }
+            },
+            {
+               "startDate":"1847,11",
+                "headline":"Pio IX",
+                "text":"Manifestazioni a Treviso a favore di Pio IX",
+                "asset":
+                {
+                    "media":"assets/img/piopapa.jpg",
+                    "credit":"<a href=''>Link</a>",
+                    "caption":"Nome"
+                }
+            },
+            {
+                "startDate":"1847,12,21",
+                "headline":"Riforme Liberarli",
+                "text":"Daniele Manin chiede per la prima volta riforme liberali",
+                "asset":
+                {
+                    "media":"assets/img/manin.jpg",
+                    "credit":"<a href='h'>Link</a>",
+                    "caption":"Nome"
+                }
+            },
+            {
+                "startDate":"1847,12,28",
+                "headline":"Giovanni Francesco Avesani",
+                "text":"L'avvocato liberale moderato Giovanni Francesco Avesani  chiede l'autonomia per il Veneto",
+                "asset":
+                {
+                    "media":"assets/img/manin.jpg",
+                    "credit":"<a href='h'>Link</a>",
+                    "caption":"Nome"
+                }
+            },
+            {
+                "startDate":"1847,12,30",
+                "headline":"Ateneo Veneto",
+                "text":"Niccolo' Tommaseo pronuncia un discorso all'Ateneo Veneto",
+                "asset":
+                {
+                   "media":"assets/img/ateneoveneto.jpg",
+                    "credit":"<a href='h'>Link</a>",
+                    "caption":"Nome"
+                }
+            },
+            {
+               "startDate":"1848,1",
+                "headline":"il Lombardo Veneto",
+                "text":"Daniele Manin chiede l'autonomia per il Lombardo -Veneto",
+                "asset":
+                {
+                    "media":"assets/img/lombardo-veneto.jpg",
+                    "credit":"<a href='h'>Link</a>",
+                    "caption":"Nome"
+                }
+            }
+			
+
+        ]
+    }
+}
